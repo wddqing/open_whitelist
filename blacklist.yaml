@@ -1,0 +1,11 @@
+payload:
+  # Docker
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,hub.docker.com
+  - DOMAIN-SUFFIX,registry-1.docker.io
+  - DOMAIN-SUFFIX,auth.docker.io
+  - DOMAIN-SUFFIX,index.docker.io
+  - DOMAIN-SUFFIX,production.cloudflare.docker.com
+  - DOMAIN-SUFFIX,download.docker.com
+  - DOMAIN-SUFFIX,desktop.docker.com
