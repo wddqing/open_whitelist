@@ -18,6 +18,30 @@ payload:
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,microsoft.net
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azurefd.net
+  - DOMAIN-SUFFIX,trafficmanager.net
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,msauthimages.net
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msftauthimages.net
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,teams.microsoft.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,dev.azure.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,update.microsoft.com
+  - DOMAIN-SUFFIX,download.windowsupdate.com
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 
   # Apple
   - DOMAIN-SUFFIX,apple.com
