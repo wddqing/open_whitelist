@@ -2,13 +2,6 @@ payload:
   # Docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
-  - DOMAIN-SUFFIX,hub.docker.com
-  - DOMAIN-SUFFIX,registry-1.docker.io
-  - DOMAIN-SUFFIX,auth.docker.io
-  - DOMAIN-SUFFIX,index.docker.io
-  - DOMAIN-SUFFIX,production.cloudflare.docker.com
-  - DOMAIN-SUFFIX,download.docker.com
-  - DOMAIN-SUFFIX,desktop.docker.com
 
   # Microsoft
   - DOMAIN-SUFFIX,microsoft.com
@@ -34,14 +27,10 @@ payload:
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,skype.com
-  - DOMAIN-SUFFIX,teams.microsoft.com
   - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,dev.azure.com
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,update.microsoft.com
-  - DOMAIN-SUFFIX,download.windowsupdate.com
-  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 
   # Apple
   - DOMAIN-SUFFIX,apple.com
