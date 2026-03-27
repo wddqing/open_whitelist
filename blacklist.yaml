@@ -39,9 +39,3 @@ payload:
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,mzstatic.com
   - DOMAIN-SUFFIX,icloud-content.com
-
-  # JetBrains
-  - DOMAIN-SUFFIX,jetbrains.com
-  - DOMAIN-SUFFIX,jb.gg
-  - DOMAIN-SUFFIX,jetbrains.space
-  - DOMAIN-SUFFIX,jetbrains.ai
